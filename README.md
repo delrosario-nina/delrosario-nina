@@ -4,7 +4,7 @@
 
 **UI/UX Designer · Frontend Developer · CS Student @ UP Visayas**
 
-I turn ideas into interfaces, and interfaces into experiences
+☆*: .｡. I turn ideas into interfaces, and interfaces into experiences .｡.:*☆
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ninaclaudiadelrosario.framer.website-1E3A5F?style=flat-square&labelColor=1E3A5F&color=2E5F8A)](https://ninaclaudiadelrosario.framer.website)
 
@@ -12,13 +12,13 @@ I turn ideas into interfaces, and interfaces into experiences
 
 ---
 
-## About Me
+## About Me (๑•̀ㅂ•́)و✧
 
 I'm a 3rd-year Computer Science student at the University of the Philippines Visayas who sits at the intersection of **design and software development**. My approach starts with the user — understanding how people think, where they get stuck, and what makes an interface feel effortless  before carrying that perspective all the way through to the code.
 
 I don't hand off wireframes. I build them.
 
-From running **moderated usability testing** with real users to shipping **production-ready Vue.js and React interfaces**, I own the full design-to-development pipeline. That means the gap between what I design and what gets built is zero — because I'm doing both.
+From running **usability testing** with real users to shipping **interfaces**, I experience the full design-to-development pipeline. 
 
 ---
 
