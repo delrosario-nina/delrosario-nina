@@ -22,7 +22,7 @@ From running **usability testing** with real users to shipping **interfaces**, I
 
 ---
 
-## What I Do
+## What I Do ( •̀ ω •́ )y
 
 ```
 User Research  →  Wireframing  →  Prototyping  →  Usability Testing  →  Frontend Implementation
@@ -35,7 +35,7 @@ User Research  →  Wireframing  →  Prototyping  →  Usability Testing  →  
 
 ---
 
-## A Bit More
+## A Bit More ( •̀ ω •́ )y
 
 - BS Computer Science, UP Visayas
 - DOST Merit Scholar, Batch 2023
