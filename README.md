@@ -35,7 +35,7 @@ User Research  →  Wireframing  →  Prototyping  →  Usability Testing  →  
 
 ---
 
-## A Bit More ( •̀ ω •́ )y
+## A Bit More ✍️(◔◡◔)
 
 - BS Computer Science, UP Visayas
 - DOST Merit Scholar, Batch 2023
