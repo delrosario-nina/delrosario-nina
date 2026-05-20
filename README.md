@@ -24,7 +24,6 @@ From running **usability testing** with real users to shipping **interfaces**, I
 
 ## A Bit More About Me✍️(◔◡◔)
 
-- BS Computer Science, UP Visayas
 - DOST Merit Scholar, Batch 2023
 - Civil Service Examination Passer (Professional) — 94.74%
 - Business Manager, UPV Komsai.Org (AY 2025–2026)
