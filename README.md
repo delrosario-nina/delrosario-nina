@@ -22,20 +22,7 @@ From running **usability testing** with real users to shipping **interfaces**, I
 
 ---
 
-## What I Do ( •̀ ω •́ )y
-
-```
-User Research  →  Wireframing  →  Prototyping  →  Usability Testing  →  Frontend Implementation
-```
-
-- **UI/UX Design** — Figma, wireframing, interaction design, heuristic evaluation, design systems
-- **Frontend Development** — Vue.js, React, TypeScript, Tailwind CSS, component-driven architecture
-- **Full-Stack** — Laravel REST APIs, Node.js, MongoDB, MySQL
-- **Research** — Moderated usability testing, user interviews, feedback integration, iterative design
-
----
-
-## A Bit More ✍️(◔◡◔)
+## A Bit More About Me✍️(◔◡◔)
 
 - BS Computer Science, UP Visayas
 - DOST Merit Scholar, Batch 2023
